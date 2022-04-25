@@ -1,2 +1,2 @@
-# Lab9_COMP583
- Python Script
+# Lab9_COMP593
+ python script
